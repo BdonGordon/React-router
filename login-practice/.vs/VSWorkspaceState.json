@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\routes",
+    "\\src\\routes\\Login",
+    "\\src\\routes\\Login\\components",
+    "\\src\\routes\\Login\\containers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
